@@ -1,3 +1,24 @@
+## Punch Clock -- AKA a Time Clock
+
+Time Clock is a web application intented to be used with Raspery Pi. Its function is to be used by employees to log their time entries. That's the time an employee arrives for work and ofcourse the time the said employee leaves work. 
+
+## Time Clock Features
+
+#### Employee Features
+Clock in/Clock out
+View Time Records
+View calendar for time entry activity
+
+#### Admin Features
+Clock in/Clock out an employee
+Edit Time Entries of an employee
+View all current clocked in employees
+View Time Entries of each employee - With an overview of each days entry.
+Add an employee to database
+View Disabled employees
+Nightly email to show any employee who forgot to clock out
+
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
